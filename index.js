@@ -9,5 +9,5 @@ function returnsANamedFunction(){
 }
 
 function returnsAnAnonymousFunction(){
-    return()=>"amazing"
+    return()=>"Awesome"
 }
