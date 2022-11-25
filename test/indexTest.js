@@ -37,7 +37,7 @@ describe("index", () => {
     });
 
     it("returns a function", () => {
-      expect(fn).to.be.a("function");
+      expect(fn).to.be.a("function"); 
     });
 
     it("returns an anonymous function", () => {
